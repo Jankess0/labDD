@@ -1,0 +1,16 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/kamil/Desktop/Programy/Algorytmy/OneDrive_1_27.02.2024/calka'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _f3, symObjAddr: 0x0, symBinAddr: 0x10000372C, symSize: 0x14 }
+  - { offsetInCU: 0x4D, offset: 0x4D, size: 0x8, addend: 0x0, symName: _c_od, symBinAddr: 0x100008008, symSize: 0x0 }
+  - { offsetInCU: 0x69, offset: 0x69, size: 0x8, addend: 0x0, symName: _c_do, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x72, offset: 0x72, size: 0x8, addend: 0x0, symName: _f3, symObjAddr: 0x0, symBinAddr: 0x10000372C, symSize: 0x14 }
+  - { offsetInCU: 0x9A, offset: 0x9A, size: 0x8, addend: 0x0, symName: _f4, symObjAddr: 0x14, symBinAddr: 0x100003740, symSize: 0x14 }
+  - { offsetInCU: 0xC2, offset: 0xC2, size: 0x8, addend: 0x0, symName: _prostokaty, symObjAddr: 0x28, symBinAddr: 0x100003754, symSize: 0xEC }
+  - { offsetInCU: 0x122, offset: 0x122, size: 0x8, addend: 0x0, symName: _trapezy, symObjAddr: 0x114, symBinAddr: 0x100003840, symSize: 0x10C }
+  - { offsetInCU: 0x174, offset: 0x174, size: 0x8, addend: 0x0, symName: _mc, symObjAddr: 0x220, symBinAddr: 0x10000394C, symSize: 0x274 }
+  - { offsetInCU: 0x244, offset: 0x244, size: 0x8, addend: 0x0, symName: _f1, symObjAddr: 0x494, symBinAddr: 0x100003BC0, symSize: 0x54 }
+  - { offsetInCU: 0x26C, offset: 0x26C, size: 0x8, addend: 0x0, symName: _f2, symObjAddr: 0x4E8, symBinAddr: 0x100003C14, symSize: 0x88 }
+  - { offsetInCU: 0x2A2, offset: 0x2A2, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x570, symBinAddr: 0x100003C9C, symSize: 0x208 }
+...
